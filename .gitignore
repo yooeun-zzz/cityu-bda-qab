@@ -38,6 +38,7 @@ yarn-error.log*
 /.wrangler/
 /outputs/
 /work/
+*.tsbuildinfo
 
 # Saved AIMS pages and resources are private input only
 *.html

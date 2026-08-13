@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import argparse, html, json, re
-from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
@@ -60,7 +59,15 @@ def parse_file(path: Path, term: str):
     restrictions = {}
     for row in parser.rows:
         if len(row) == 16 and row[0].strip().isdigit():
-            record = dict(zip(HEADERS, row)); last = record["crn"]
+            record = dict(zip(HEADERS, row)); last = record.copy()
+        elif len(row) == 16 and last and not any(cell.strip() for cell in row[:9]) and row[9].strip():
+            # AIMS leaves CRN/Section and registration fields blank when the
+            # same Section has another weekly meeting. Inherit the Section
+            # metadata but keep the continuation row's date/time/place fields.
+            record = {**last, **dict(zip(HEADERS[9:], row[9:]))}
+        else:
+            record = None
+        if record:
             record["available"] = int(re.sub(r"\D", "", record["available"]) or 0)
             record["capacity"] = int(re.sub(r"\D", "", record["capacity"]) or 0)
             record["credits"] = float(record["credits"] or 0)
@@ -68,9 +75,10 @@ def parse_file(path: Path, term: str):
             else: record["startDate"] = record["endDate"] = record.pop("date")
             if " - " in record["time"]: record["startTime"], record["endTime"] = record.pop("time").split(" - ", 1)
             else: record["startTime"] = record["endTime"] = record.pop("time")
+            record["meetingIndex"] = sum(1 for meeting in meetings if meeting["crn"] == record["crn"])
             meetings.append(record)
         elif last and len(row) >= 2 and "only for" in " ".join(row).lower():
-            restrictions[last] = " ".join(row).strip()
+            restrictions[last["crn"]] = " ".join(row).strip()
     for record in meetings: record["registrationRestrictions"] = restrictions.get(record["crn"], "")
     notes = " ".join(re.findall(r'<div class="cinfo-container">(.*?)</div>', source, re.I | re.S))
     notes = " ".join(re.sub(r"<[^>]+>", " ", html.unescape(notes)).split())
@@ -84,7 +92,9 @@ def main():
     for term, names in FILES.items():
         for name in names: courses.append(parse_file(dirs[term] / name, term))
     courses.append({"academicYear":"2026/27","term":"U","termName":"未开课","code":"MS6712","title":"Contemporary Topics in Quantitative Analysis for Business","category":"stream_elective","credits":3,"prerequisites":PREREQS["MS6712"],"notes":"属于2026/27 QAB培养方案，但本学年未查到实际开课班次。","meetings":[]})
-    payload = {"schemaVersion":1,"snapshotDate":"2026-08-13","source":"Saved CityU AIMS Master Class Schedule pages","courses":courses}
+    payload = {"schemaVersion":2,"snapshotDate":"2026-08-13","source":"Saved CityU AIMS Master Class Schedule pages","courses":courses}
     args.out.parent.mkdir(parents=True, exist_ok=True); args.out.write_text(json.dumps(payload, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
-    print(f"Wrote {len(courses)} course-term records with {sum(len(c['meetings']) for c in courses)} CRNs to {args.out}")
+    meeting_count = sum(len(c["meetings"]) for c in courses)
+    crn_count = len({(c["term"], m["crn"]) for c in courses for m in c["meetings"]})
+    print(f"Wrote {len(courses)} course-term records with {crn_count} CRNs and {meeting_count} meeting times to {args.out}")
 if __name__ == "__main__": main()

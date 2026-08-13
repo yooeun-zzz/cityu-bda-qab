@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "snapshotDate": "2026-08-13",
   "source": "Saved CityU AIMS Master Class Schedule pages",
   "courses": [
@@ -33,6 +33,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI"
         }
       ]
@@ -67,6 +68,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI"
         },
         {
@@ -88,6 +90,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI"
         },
         {
@@ -109,6 +112,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI"
         },
         {
@@ -130,6 +134,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI"
         },
         {
@@ -151,6 +156,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI"
         },
         {
@@ -172,6 +178,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -193,6 +200,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4"
         },
         {
@@ -214,6 +222,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4"
         },
         {
@@ -235,6 +244,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -256,6 +266,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -277,6 +288,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MAIA"
         },
         {
@@ -298,6 +310,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4"
         }
       ]
@@ -332,6 +345,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -353,6 +367,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -374,6 +389,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -395,6 +411,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -416,6 +433,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -437,6 +455,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -458,6 +477,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -479,6 +499,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -500,6 +521,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -521,6 +543,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -542,6 +565,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -563,6 +587,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -584,6 +609,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -605,6 +631,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP"
         },
         {
@@ -626,6 +653,7 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         },
         {
@@ -647,6 +675,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -668,6 +697,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         }
       ]
@@ -702,6 +732,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -723,6 +754,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -744,6 +776,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1"
         }
       ]
@@ -778,6 +811,29 @@
           "endDate": "17/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "11916",
+          "section": "C01",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 4,
+          "capacity": 46,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -799,6 +855,29 @@
           "endDate": "24/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "13413",
+          "section": "C02",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 3,
+          "capacity": 55,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -820,6 +899,29 @@
           "endDate": "17/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "14071",
+          "section": "C03",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 4,
+          "capacity": 57,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "YAN Jian",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -841,6 +943,29 @@
           "endDate": "24/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "15211",
+          "section": "C04",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 3,
+          "capacity": 57,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "15:00",
+          "endTime": "17:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -862,6 +987,29 @@
           "endDate": "17/10/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "11588",
+          "section": "C61",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 13,
+          "capacity": 65,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -883,6 +1031,29 @@
           "endDate": "17/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA2"
+        },
+        {
+          "crn": "13414",
+          "section": "CA1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 33,
+          "capacity": 33,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -904,6 +1075,29 @@
           "endDate": "17/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "14194",
+          "section": "CA2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 8,
+          "capacity": 8,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -925,6 +1119,29 @@
           "endDate": "17/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSEM1"
+        },
+        {
+          "crn": "15208",
+          "section": "CA3",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 3,
+          "capacity": 3,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1"
         },
         {
@@ -946,6 +1163,29 @@
           "endDate": "24/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA2"
+        },
+        {
+          "crn": "14068",
+          "section": "CB1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 35,
+          "capacity": 35,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -967,6 +1207,29 @@
           "endDate": "24/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "14199",
+          "section": "CB2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 10,
+          "capacity": 10,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -988,6 +1251,29 @@
           "endDate": "24/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSEM1"
+        },
+        {
+          "crn": "15210",
+          "section": "CB3",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 5,
+          "capacity": 5,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1"
         },
         {
@@ -1009,6 +1295,29 @@
           "endDate": "17/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA2"
+        },
+        {
+          "crn": "14072",
+          "section": "CC1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 35,
+          "capacity": 35,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "YAN Jian",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -1030,6 +1339,29 @@
           "endDate": "17/10/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "14200",
+          "section": "CC2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 10,
+          "capacity": 10,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "YAN Jian",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1051,6 +1383,29 @@
           "endDate": "24/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA2"
+        },
+        {
+          "crn": "15212",
+          "section": "CD1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 35,
+          "capacity": 35,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "15:00",
+          "endTime": "17:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -1072,6 +1427,29 @@
           "endDate": "24/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "15213",
+          "section": "CD2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 10,
+          "capacity": 10,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "15:00",
+          "endTime": "17:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1093,6 +1471,29 @@
           "endDate": "24/10/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSHSB, MSHSM1"
+        },
+        {
+          "crn": "15214",
+          "section": "CD3",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 2,
+          "capacity": 2,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "UG-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "24/10/2026",
+          "startTime": "15:00",
+          "endTime": "17:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1"
         },
         {
@@ -1114,6 +1515,29 @@
           "endDate": "17/10/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA2"
+        },
+        {
+          "crn": "12938",
+          "section": "CP1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 32,
+          "capacity": 32,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -1135,6 +1559,29 @@
           "endDate": "17/10/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "12572",
+          "section": "CP2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 2,
+          "capacity": 2,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1156,6 +1603,29 @@
           "endDate": "17/10/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSEM1"
+        },
+        {
+          "crn": "14067",
+          "section": "CP3",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 2,
+          "capacity": 2,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1"
         },
         {
@@ -1177,6 +1647,29 @@
           "endDate": "17/10/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSHSB, MSHSM1"
+        },
+        {
+          "crn": "14198",
+          "section": "CP4",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 3,
+          "capacity": 3,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "GAVIOLI-AKILAGUN SHAKEEL",
+          "medium": "English",
+          "startDate": "31/08/2026",
+          "endDate": "17/10/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1"
         }
       ]
@@ -1211,6 +1704,29 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "13415",
+          "section": "C01",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 9,
+          "capacity": 95,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1232,6 +1748,29 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "15266",
+          "section": "C02",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 10,
+          "capacity": 95,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "CAI Biao",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1253,6 +1792,29 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "11594",
+          "section": "C61",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 13,
+          "capacity": 95,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1274,6 +1836,29 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "14106",
+          "section": "CA1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 5,
+          "capacity": 5,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "09:00",
+          "endTime": "11:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1295,6 +1880,29 @@
           "endDate": "28/11/2026",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "15267",
+          "section": "CB1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 5,
+          "capacity": 5,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "LI",
+          "room": "1503",
+          "instructor": "CAI Biao",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1316,6 +1924,29 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "14113",
+          "section": "CP1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 5,
+          "capacity": 5,
+          "waitlistAvailable": "N",
+          "day": "T",
+          "building": "ICP",
+          "room": "G-101",
+          "instructor": "YANG Xinxin",
+          "medium": "English",
+          "startDate": "18/10/2026",
+          "endDate": "28/11/2026",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         }
       ]
@@ -1350,6 +1981,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1371,6 +2003,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1392,6 +2025,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1413,6 +2047,7 @@
           "endDate": "28/11/2026",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP"
         },
         {
@@ -1434,6 +2069,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1455,6 +2091,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         }
       ]
@@ -1489,6 +2126,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         },
         {
@@ -1510,6 +2148,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -1531,6 +2170,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE"
         },
         {
@@ -1552,6 +2192,7 @@
           "endDate": "28/11/2026",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA"
         },
         {
@@ -1573,6 +2214,7 @@
           "endDate": "28/11/2026",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         }
       ]
@@ -1607,6 +2249,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI"
         },
         {
@@ -1628,6 +2271,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI"
         },
         {
@@ -1649,6 +2293,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1670,6 +2315,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         },
         {
@@ -1691,6 +2337,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE"
         },
         {
@@ -1712,6 +2359,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         }
       ]
@@ -1746,6 +2394,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1767,6 +2416,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1788,6 +2438,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -1809,6 +2460,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1830,6 +2482,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1851,6 +2504,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP"
         },
         {
@@ -1872,6 +2526,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         }
       ]
@@ -1906,6 +2561,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1927,6 +2583,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         }
       ]
@@ -1963,6 +2620,7 @@
           "endDate": "17/04/2027",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -1984,6 +2642,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2005,6 +2664,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2026,6 +2686,7 @@
           "endDate": "17/04/2027",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -2047,6 +2708,7 @@
           "endDate": "17/04/2027",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1"
         },
         {
@@ -2068,6 +2730,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2089,6 +2752,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -2110,6 +2774,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2131,6 +2796,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB"
         },
         {
@@ -2152,6 +2818,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1"
         }
       ]
@@ -2188,6 +2855,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2209,6 +2877,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2230,6 +2899,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2251,6 +2921,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2272,6 +2943,7 @@
           "endDate": "17/04/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2293,6 +2965,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         }
       ]
@@ -2329,6 +3002,7 @@
           "endDate": "17/04/2027",
           "startTime": "15:00",
           "endTime": "17:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2350,6 +3024,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2371,6 +3046,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         }
       ]
@@ -2407,6 +3083,7 @@
           "endDate": "17/04/2027",
           "startTime": "13:00",
           "endTime": "15:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2428,6 +3105,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2449,6 +3127,7 @@
           "endDate": "17/04/2027",
           "startTime": "17:00",
           "endTime": "19:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2470,6 +3149,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2491,6 +3171,7 @@
           "endDate": "17/04/2027",
           "startTime": "13:00",
           "endTime": "15:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -2512,6 +3193,7 @@
           "endDate": "17/04/2027",
           "startTime": "13:00",
           "endTime": "15:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2533,6 +3215,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -2554,6 +3237,7 @@
           "endDate": "17/04/2027",
           "startTime": "09:00",
           "endTime": "11:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2575,6 +3259,7 @@
           "endDate": "17/04/2027",
           "startTime": "17:00",
           "endTime": "19:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -2596,6 +3281,7 @@
           "endDate": "17/04/2027",
           "startTime": "17:00",
           "endTime": "19:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2617,6 +3303,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         },
         {
@@ -2638,6 +3325,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         },
         {
@@ -2659,6 +3347,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         }
       ]
@@ -2693,6 +3382,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE"
         },
         {
@@ -2714,6 +3404,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE"
         },
         {
@@ -2735,6 +3426,7 @@
           "endDate": "17/04/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2"
         }
       ]
@@ -2772,6 +3464,29 @@
           "endDate": "24/07/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "10359",
+          "section": "C01",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 100,
+          "capacity": 100,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2793,6 +3508,29 @@
           "endDate": "24/07/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "10489",
+          "section": "C02",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 100,
+          "capacity": 100,
+          "waitlistAvailable": "N",
+          "day": "R",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2814,6 +3552,29 @@
           "endDate": "24/07/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCOSCM"
+        },
+        {
+          "crn": "10107",
+          "section": "C61",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 95,
+          "capacity": 95,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM"
         },
         {
@@ -2835,6 +3596,29 @@
           "endDate": "24/07/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "10360",
+          "section": "CA1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 20,
+          "capacity": 20,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2856,6 +3640,29 @@
           "endDate": "24/07/2027",
           "startTime": "12:00",
           "endTime": "14:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "10490",
+          "section": "CB1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 20,
+          "capacity": 20,
+          "waitlistAvailable": "N",
+          "day": "R",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "12:00",
+          "endTime": "14:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2877,6 +3684,29 @@
           "endDate": "24/07/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MSCBDA3"
+        },
+        {
+          "crn": "10141",
+          "section": "CP1",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 20,
+          "capacity": 20,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3"
         },
         {
@@ -2898,6 +3728,29 @@
           "endDate": "24/07/2027",
           "startTime": "19:00",
           "endTime": "21:50",
+          "meetingIndex": 0,
+          "registrationRestrictions": "only for Programme: MAHUM"
+        },
+        {
+          "crn": "10504",
+          "section": "CP2",
+          "credits": 3.0,
+          "campus": "Main Campus",
+          "web": "Y",
+          "level": "P",
+          "available": 5,
+          "capacity": 5,
+          "waitlistAvailable": "N",
+          "day": "W",
+          "building": "YEUNG",
+          "room": "LT-15",
+          "instructor": "LIN Ka Yuk C.",
+          "medium": "English",
+          "startDate": "07/06/2027",
+          "endDate": "24/07/2027",
+          "startTime": "19:00",
+          "endTime": "21:50",
+          "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MAHUM"
         }
       ]

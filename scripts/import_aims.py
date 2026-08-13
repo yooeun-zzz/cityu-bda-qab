@@ -79,7 +79,10 @@ def parse_file(path: Path, term: str):
             meetings.append(record)
         elif last and len(row) >= 2 and "only for" in " ".join(row).lower():
             restrictions[last["crn"]] = " ".join(row).strip()
-    for record in meetings: record["registrationRestrictions"] = restrictions.get(record["crn"], "")
+    for record in meetings:
+        restriction = restrictions.get(record["crn"], "")
+        record["registrationRestrictions"] = restriction
+        record["eligibleForProgramme"] = bool(re.search(r"\bMSCBDA3\b", restriction, re.I))
     notes = " ".join(re.findall(r'<div class="cinfo-container">(.*?)</div>', source, re.I | re.S))
     notes = " ".join(re.sub(r"<[^>]+>", " ", html.unescape(notes)).split())
     return {"academicYear": "2026/27", "term": term, "termName": TERM_NAMES[term], "code": code, "title": title,

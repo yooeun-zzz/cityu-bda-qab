@@ -35,7 +35,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -71,7 +72,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14551",
@@ -94,7 +96,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12272",
@@ -117,7 +120,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12638",
@@ -140,7 +144,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14283",
@@ -163,7 +168,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14024",
@@ -186,7 +192,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14026",
@@ -209,7 +216,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14028",
@@ -232,7 +240,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13429",
@@ -255,7 +264,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14025",
@@ -278,7 +288,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13445",
@@ -301,7 +312,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MAIA",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14027",
@@ -324,7 +336,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEC4",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -360,7 +373,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14050",
@@ -383,7 +397,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14054",
@@ -406,7 +421,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15197",
@@ -429,7 +445,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12934",
@@ -452,7 +469,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12573",
@@ -475,7 +493,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14049",
@@ -498,7 +517,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14051",
@@ -521,7 +541,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14052",
@@ -544,7 +565,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14055",
@@ -567,7 +589,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14056",
@@ -590,7 +613,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15202",
@@ -613,7 +637,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15203",
@@ -636,7 +661,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15198",
@@ -659,7 +685,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15204",
@@ -682,7 +709,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13387",
@@ -705,7 +733,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13389",
@@ -728,7 +757,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -764,7 +794,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11586",
@@ -787,7 +818,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11587",
@@ -810,7 +842,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -846,7 +879,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11916",
@@ -869,7 +903,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13413",
@@ -892,7 +927,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13413",
@@ -915,7 +951,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14071",
@@ -938,7 +975,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14071",
@@ -961,7 +999,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15211",
@@ -984,7 +1023,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15211",
@@ -1007,7 +1047,8 @@
           "endTime": "17:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11588",
@@ -1030,7 +1071,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11588",
@@ -1053,7 +1095,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13414",
@@ -1076,7 +1119,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13414",
@@ -1099,7 +1143,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14194",
@@ -1122,7 +1167,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14194",
@@ -1145,7 +1191,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15208",
@@ -1168,7 +1215,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15208",
@@ -1191,7 +1239,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14068",
@@ -1214,7 +1263,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14068",
@@ -1237,7 +1287,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14199",
@@ -1260,7 +1311,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14199",
@@ -1283,7 +1335,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15210",
@@ -1306,7 +1359,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15210",
@@ -1329,7 +1383,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14072",
@@ -1352,7 +1407,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14072",
@@ -1375,7 +1431,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14200",
@@ -1398,7 +1455,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14200",
@@ -1421,7 +1479,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15212",
@@ -1444,7 +1503,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15212",
@@ -1467,7 +1527,8 @@
           "endTime": "17:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15213",
@@ -1490,7 +1551,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15213",
@@ -1513,7 +1575,8 @@
           "endTime": "17:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15214",
@@ -1536,7 +1599,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15214",
@@ -1559,7 +1623,8 @@
           "endTime": "17:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12938",
@@ -1582,7 +1647,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12938",
@@ -1605,7 +1671,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12572",
@@ -1628,7 +1695,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12572",
@@ -1651,7 +1719,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14067",
@@ -1674,7 +1743,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14067",
@@ -1697,7 +1767,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14198",
@@ -1720,7 +1791,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14198",
@@ -1743,7 +1815,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSHSB, MSHSM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -1779,7 +1852,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13415",
@@ -1802,7 +1876,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15266",
@@ -1825,7 +1900,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15266",
@@ -1848,7 +1924,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11594",
@@ -1871,7 +1948,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11594",
@@ -1894,7 +1972,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14106",
@@ -1917,7 +1996,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14106",
@@ -1940,7 +2020,8 @@
           "endTime": "11:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15267",
@@ -1963,7 +2044,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15267",
@@ -1986,7 +2068,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14113",
@@ -2009,7 +2092,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14113",
@@ -2032,7 +2116,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -2068,7 +2153,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "12289",
@@ -2091,7 +2177,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13405",
@@ -2114,7 +2201,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13406",
@@ -2137,7 +2225,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12290",
@@ -2160,7 +2249,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15270",
@@ -2183,7 +2273,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -2219,7 +2310,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14193",
@@ -2242,7 +2334,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14197",
@@ -2265,7 +2358,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14442",
@@ -2288,7 +2382,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14195",
@@ -2311,7 +2406,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -2347,7 +2443,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10747",
@@ -2370,7 +2467,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB, MSBISA, MSBISB, MSCBDA2, MSDTTI",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13466",
@@ -2393,7 +2491,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15090",
@@ -2416,7 +2515,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15091",
@@ -2439,7 +2539,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13923",
@@ -2462,7 +2563,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         }
       ]
     },
@@ -2498,7 +2600,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13992",
@@ -2521,7 +2624,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "11169",
@@ -2544,7 +2648,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13301",
@@ -2567,7 +2672,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13299",
@@ -2590,7 +2696,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15106",
@@ -2613,7 +2720,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: EXGP",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12067",
@@ -2636,7 +2744,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         }
       ]
     },
@@ -2672,7 +2781,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15153",
@@ -2695,7 +2805,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -2733,7 +2844,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14025",
@@ -2756,7 +2868,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11454",
@@ -2779,7 +2892,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "14020",
@@ -2802,7 +2916,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15161",
@@ -2825,7 +2940,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14026",
@@ -2848,7 +2964,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14027",
@@ -2871,7 +2988,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "12774",
@@ -2894,7 +3012,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14024",
@@ -2917,7 +3036,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAIB",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15162",
@@ -2940,7 +3060,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSEM1",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -2978,7 +3099,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15168",
@@ -3001,7 +3123,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "11456",
@@ -3024,7 +3147,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13324",
@@ -3047,7 +3171,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15169",
@@ -3070,7 +3195,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13321",
@@ -3093,7 +3219,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -3131,7 +3258,8 @@
           "endTime": "17:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "12439",
@@ -3154,7 +3282,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15173",
@@ -3177,7 +3306,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -3215,7 +3345,8 @@
           "endTime": "15:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "13328",
@@ -3238,7 +3369,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "15226",
@@ -3261,7 +3393,8 @@
           "endTime": "19:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10634",
@@ -3284,7 +3417,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "12775",
@@ -3307,7 +3441,8 @@
           "endTime": "15:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13329",
@@ -3330,7 +3465,8 @@
           "endTime": "15:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14031",
@@ -3353,7 +3489,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15223",
@@ -3376,7 +3513,8 @@
           "endTime": "11:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15229",
@@ -3399,7 +3537,8 @@
           "endTime": "19:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15231",
@@ -3422,7 +3561,8 @@
           "endTime": "19:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "13327",
@@ -3445,7 +3585,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14028",
@@ -3468,7 +3609,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14029",
@@ -3491,7 +3633,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -3527,7 +3670,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSF, MSFE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "14087",
@@ -3550,7 +3694,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSAE",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "15368",
@@ -3573,7 +3718,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA2",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },
@@ -3612,7 +3758,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10359",
@@ -3635,7 +3782,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10489",
@@ -3658,7 +3806,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10489",
@@ -3681,7 +3830,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10107",
@@ -3704,7 +3854,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10107",
@@ -3727,7 +3878,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCOSCM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10360",
@@ -3750,7 +3902,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10360",
@@ -3773,7 +3926,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10490",
@@ -3796,7 +3950,8 @@
           "endTime": "14:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10490",
@@ -3819,7 +3974,8 @@
           "endTime": "14:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10141",
@@ -3842,7 +3998,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10141",
@@ -3865,7 +4022,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MSCBDA3",
-          "eligibleForProgramme": true
+          "eligibleForProgramme": true,
+          "eligibilityReason": "mscbda3"
         },
         {
           "crn": "10504",
@@ -3888,7 +4046,8 @@
           "endTime": "21:50",
           "meetingIndex": 0,
           "registrationRestrictions": "only for Programme: MAHUM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         },
         {
           "crn": "10504",
@@ -3911,7 +4070,8 @@
           "endTime": "21:50",
           "meetingIndex": 1,
           "registrationRestrictions": "only for Programme: MAHUM",
-          "eligibleForProgramme": false
+          "eligibleForProgramme": false,
+          "eligibilityReason": "restricted_other"
         }
       ]
     },

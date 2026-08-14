@@ -18,3 +18,6 @@
 
 /* Match timetable blocks to the three course-category label colors. */
 .grid-block.conflict,.class-block.conflict{color:#fff!important}.class-block span{color:inherit;opacity:.78}.schedule-legend i{background:#d4eee4}.schedule-legend .stream i{background:#e4ddf2}.schedule-legend .elective i{background:#f3e4c9}
+
+/* Mobile typography rhythm */
+@media(max-width:620px){body{line-height:1.55}.hero h1{line-height:1.08}.hero p{line-height:1.6;margin:12px 0}.notice{line-height:1.65}.term-tabs button{line-height:1.3}.term-tabs button small{line-height:1.4;margin-top:5px}.progress-note{line-height:1.45}.section-head h2{line-height:1.3;margin-top:5px}.course-card h3{margin:18px 0 7px}.course-card .title{line-height:1.45}.cn-title{line-height:1.5;margin:6px 0 12px}.card-focus{line-height:1.72}.summary{line-height:1.55}.card-actions button{line-height:1.35}.overview-intro,.guide-intro{line-height:1.75}.credit-map article p{line-height:1.65}.eligibility-note{line-height:1.65}.guide-grid article p{line-height:1.75}.modal-head h2{line-height:1.35}.snapshot{line-height:1.65}.section-list button{line-height:1.55}.pdf-fields article p{line-height:1.75}.detail table{line-height:1.55}.privacy p{margin:0 0 12px}}

@@ -15,3 +15,6 @@
 .schedule-legend{display:flex;flex-wrap:wrap;gap:8px 14px;margin:-5px 0 13px;color:var(--muted);font-size:11px}.schedule-legend span{display:flex;align-items:center;gap:5px}.schedule-legend i{width:10px;height:10px;border-radius:3px;background:#2f6f62}.schedule-legend .stream i{background:#6d597a}.schedule-legend .elective i{background:#8a6425}.schedule-legend .conflict-key i{background:#9e3232}
 @media(max-width:900px){.credit-map{grid-template-columns:1fr}.credit-map>span{height:18px}.credit-map .credit-total{min-height:58px}.course-reference dl{grid-template-columns:1fr}}
 @media(max-width:700px){.overview-total{align-self:flex-start}.programme-overview{padding:17px}.reference-head{flex-direction:column}.pdf-fields{grid-template-columns:1fr}.reference-warning{align-self:flex-start}}
+
+/* Match timetable blocks to the three course-category label colors. */
+.grid-block.conflict,.class-block.conflict{color:#fff!important}.class-block span{color:inherit;opacity:.78}.schedule-legend i{background:#d4eee4}.schedule-legend .stream i{background:#e4ddf2}.schedule-legend .elective i{background:#f3e4c9}
